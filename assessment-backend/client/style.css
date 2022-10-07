@@ -1,0 +1,32 @@
+.submit-fortune{
+    display: flex;
+    flex-direction: column;
+    margin-top: 100px;
+}
+
+#complimentButton{
+   margin-top: 30px;
+   margin-bottom: 20px;
+
+}
+
+.submit{
+    display: flex;
+    flex-direction: column;
+   
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: blanchedalmond;
+}
+
+.fortune-style{
+    font-family:'Courier New', Courier, monospace;
+    font-weight: bold;
+    color:darkcyan;
+}
+
